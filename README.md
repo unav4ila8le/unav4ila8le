@@ -4,4 +4,4 @@
 
 ### Current Projects
 - 🦊 [Foliofox](https://www.foliofox.com/) - AI-powered financial advisor that helps you make smarter decisions about your portfolio.
-- 📡 [Pingbase](https://getpingbase.com/) - Reddit signal detection and relevance scoring.
+- 📡 [Pingbase](https://github.com/unav4ila8le/pingbase) - Reddit signal detection and relevance scoring.
